@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\default.LAPTOP-MOR577EP\\OneDrive\\Escritorio\\TEST\\KEBESA\\TechnicalTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{604FF116-D572-4500-94CC-D9EADB8879CB}|TechnicalTest\\TechnicalTest.csproj|c:\\users\\default.laptop-mor577ep\\onedrive\\escritorio\\test\\kebesa\\technicaltest\\technicaltest\\api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{604FF116-D572-4500-94CC-D9EADB8879CB}|TechnicalTest\\TechnicalTest.csproj|solutionrelative:technicaltest\\api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{604FF116-D572-4500-94CC-D9EADB8879CB}|TechnicalTest\\TechnicalTest.csproj|c:\\users\\default.laptop-mor577ep\\onedrive\\escritorio\\test\\kebesa\\technicaltest\\technicaltest\\application\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{604FF116-D572-4500-94CC-D9EADB8879CB}|TechnicalTest\\TechnicalTest.csproj|solutionrelative:technicaltest\\application\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{604FF116-D572-4500-94CC-D9EADB8879CB}|TechnicalTest\\TechnicalTest.csproj|c:\\users\\default.laptop-mor577ep\\onedrive\\escritorio\\test\\kebesa\\technicaltest\\technicaltest\\domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{604FF116-D572-4500-94CC-D9EADB8879CB}|TechnicalTest\\TechnicalTest.csproj|solutionrelative:technicaltest\\domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{604FF116-D572-4500-94CC-D9EADB8879CB}|TechnicalTest\\TechnicalTest.csproj|c:\\users\\default.laptop-mor577ep\\onedrive\\escritorio\\test\\kebesa\\technicaltest\\technicaltest\\application\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{604FF116-D572-4500-94CC-D9EADB8879CB}|TechnicalTest\\TechnicalTest.csproj|solutionrelative:technicaltest\\application\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{604FF116-D572-4500-94CC-D9EADB8879CB}|TechnicalTest\\TechnicalTest.csproj|c:\\users\\default.laptop-mor577ep\\onedrive\\escritorio\\test\\kebesa\\technicaltest\\technicaltest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{604FF116-D572-4500-94CC-D9EADB8879CB}|TechnicalTest\\TechnicalTest.csproj|solutionrelative:technicaltest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{604FF116-D572-4500-94CC-D9EADB8879CB}|TechnicalTest\\TechnicalTest.csproj|c:\\users\\default.laptop-mor577ep\\onedrive\\escritorio\\test\\kebesa\\technicaltest\\technicaltest\\infrastructure\\repositories\\inmemoryproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{604FF116-D572-4500-94CC-D9EADB8879CB}|TechnicalTest\\TechnicalTest.csproj|solutionrelative:technicaltest\\infrastructure\\repositories\\inmemoryproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{604FF116-D572-4500-94CC-D9EADB8879CB}|TechnicalTest\\TechnicalTest.csproj|c:\\users\\default.laptop-mor577ep\\onedrive\\escritorio\\test\\kebesa\\technicaltest\\technicaltest\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{604FF116-D572-4500-94CC-D9EADB8879CB}|TechnicalTest\\TechnicalTest.csproj|solutionrelative:technicaltest\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{604FF116-D572-4500-94CC-D9EADB8879CB}|TechnicalTest\\TechnicalTest.csproj|c:\\users\\default.laptop-mor577ep\\onedrive\\escritorio\\test\\kebesa\\technicaltest\\technicaltest\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{604FF116-D572-4500-94CC-D9EADB8879CB}|TechnicalTest\\TechnicalTest.csproj|solutionrelative:technicaltest\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\default.LAPTOP-MOR577EP\\OneDrive\\Escritorio\\TEST\\KEBESA\\TechnicalTest\\TechnicalTest\\Application\\Dtos\\ProductDto.cs",
+              "RelativeDocumentMoniker": "TechnicalTest\\Application\\Dtos\\ProductDto.cs",
+              "ToolTip": "C:\\Users\\default.LAPTOP-MOR577EP\\OneDrive\\Escritorio\\TEST\\KEBESA\\TechnicalTest\\TechnicalTest\\Application\\Dtos\\ProductDto.cs",
+              "RelativeToolTip": "TechnicalTest\\Application\\Dtos\\ProductDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T13:12:55.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\default.LAPTOP-MOR577EP\\OneDrive\\Escritorio\\TEST\\KEBESA\\TechnicalTest\\TechnicalTest\\API\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "TechnicalTest\\API\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\default.LAPTOP-MOR577EP\\OneDrive\\Escritorio\\TEST\\KEBESA\\TechnicalTest\\TechnicalTest\\API\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "TechnicalTest\\API\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAADwvysAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T05:35:36.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InMemoryProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\default.LAPTOP-MOR577EP\\OneDrive\\Escritorio\\TEST\\KEBESA\\TechnicalTest\\TechnicalTest\\Infrastructure\\Repositories\\InMemoryProductRepository.cs",
+              "RelativeDocumentMoniker": "TechnicalTest\\Infrastructure\\Repositories\\InMemoryProductRepository.cs",
+              "ToolTip": "C:\\Users\\default.LAPTOP-MOR577EP\\OneDrive\\Escritorio\\TEST\\KEBESA\\TechnicalTest\\TechnicalTest\\Infrastructure\\Repositories\\InMemoryProductRepository.cs",
+              "RelativeToolTip": "TechnicalTest\\Infrastructure\\Repositories\\InMemoryProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T05:34:41.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\default.LAPTOP-MOR577EP\\OneDrive\\Escritorio\\TEST\\KEBESA\\TechnicalTest\\TechnicalTest\\Application\\Interfaces\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "TechnicalTest\\Application\\Interfaces\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\default.LAPTOP-MOR577EP\\OneDrive\\Escritorio\\TEST\\KEBESA\\TechnicalTest\\TechnicalTest\\Application\\Interfaces\\IProductRepository.cs",
+              "RelativeToolTip": "TechnicalTest\\Application\\Interfaces\\IProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T05:27:11.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\default.LAPTOP-MOR577EP\\OneDrive\\Escritorio\\TEST\\KEBESA\\TechnicalTest\\TechnicalTest\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "TechnicalTest\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\default.LAPTOP-MOR577EP\\OneDrive\\Escritorio\\TEST\\KEBESA\\TechnicalTest\\TechnicalTest\\Properties\\launchSettings.json",
+              "RelativeToolTip": "TechnicalTest\\Properties\\launchSettings.json",
+              "ViewState": "AQIAABUAAAAAAAAAAAAuwB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-30T08:45:04.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\default.LAPTOP-MOR577EP\\OneDrive\\Escritorio\\TEST\\KEBESA\\TechnicalTest\\TechnicalTest\\Domain\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "TechnicalTest\\Domain\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\default.LAPTOP-MOR577EP\\OneDrive\\Escritorio\\TEST\\KEBESA\\TechnicalTest\\TechnicalTest\\Domain\\Entities\\Product.cs",
+              "RelativeToolTip": "TechnicalTest\\Domain\\Entities\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T05:27:27.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\default.LAPTOP-MOR577EP\\OneDrive\\Escritorio\\TEST\\KEBESA\\TechnicalTest\\TechnicalTest\\Program.cs",
+              "RelativeDocumentMoniker": "TechnicalTest\\Program.cs",
+              "ToolTip": "C:\\Users\\default.LAPTOP-MOR577EP\\OneDrive\\Escritorio\\TEST\\KEBESA\\TechnicalTest\\TechnicalTest\\Program.cs",
+              "RelativeToolTip": "TechnicalTest\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T05:41:07.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\default.LAPTOP-MOR577EP\\OneDrive\\Escritorio\\TEST\\KEBESA\\TechnicalTest\\TechnicalTest\\appsettings.json",
+              "RelativeDocumentMoniker": "TechnicalTest\\appsettings.json",
+              "ToolTip": "C:\\Users\\default.LAPTOP-MOR577EP\\OneDrive\\Escritorio\\TEST\\KEBESA\\TechnicalTest\\TechnicalTest\\appsettings.json",
+              "RelativeToolTip": "TechnicalTest\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-30T12:49:52.611Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
